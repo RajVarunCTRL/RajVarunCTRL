@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm Raj Varun, a CS Undergrad. I have a passion for coding and a strong interest in full-stack development. My expertise lies in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in Python and have experience working with various frameworks such as Node.js and React.js.<br><br>Key Skills:<br>Languages: PHP, C, C++, Python<br>Frameworks & Tools: Node.js, React.js, VS Code, PHPStorm<br>Databases: MySQL, MongoDB (beginner level)<br>Operating Systems: Windows, Linux<br>Projects:<br>Online Banking System: Developed with HTML, CSS, and PHP, featuring secure authentication and user authorization within a LAN environment.<br>Discord Bot (Vtrixha): Built using JavaScript and Node.js, implementing features like moderation commands, automated responses, and server management utilities.<br>TinyChat: An application that detects obscenity, inappropriate content that is being sent in chats etc.
+# Hi there! 👋
+
+I'm **Raj Varun**, a **CS Undergrad**. I have a passion for coding.. My expertise lies in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in Python and have experience working with various frameworks such as **Node.js** and **React.js**.
+
+### Key Skills:
+
+- **Languages**: PHP, C, C++, Python
+- **Frameworks & Tools**: Node.js, React.js, VS Code, PHPStorm
+- **Databases**: MySQL, MongoDB (beginner level)
+- **Operating Systems**: Windows, Kali Linux
+
+### Projects:
+
+- **Online Banking System**: Developed with HTML, CSS, and PHP, featuring secure authentication and user authorization within a LAN environment.
+- **Discord Bot (Vtrixha)**: Built using JavaScript and Node.js, implementing features like moderation commands, automated responses, and server management utilities.
+- **TinyChat**: An application that detects obscenity and inappropriate content that is being sent in chats, etc.
+
 
 
 # 💻 Tech Stack:
