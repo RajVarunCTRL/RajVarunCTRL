@@ -28,10 +28,7 @@ I'm **Raj Varun**, a **CS Undergrad**. I have a passion for coding.. My expertis
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=RajVarunCTRL&icon=8&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
