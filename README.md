@@ -9,6 +9,10 @@ I love discovering new things, experimenting with technologies, and continuously
 
 I enjoy building **PHP websites** and utilizing **Bootstrap** to create responsive designs. Most of my current projects are focused on **PHP server-side coding**, **database management**, and automating tasks using Python, which helps simplify my workflow.
 
+## My Design
+
+Current project that I am working on: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
+
 ### Key Skills:
 
 - **Languages**: PHP, C, C++, Python
