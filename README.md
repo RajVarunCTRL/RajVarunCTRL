@@ -14,6 +14,7 @@ I'm **Raj Varun**, a **CS Undergrad**. I have a passion for coding.. My expertis
 
 - **FutureBanking-LAN**: Developed with HTML, CSS, and PHP, featuring secure authentication and user authorization within a LAN environment.
 - **TinyChat**: An application that detects obscenity and inappropriate content that is being sent in chats, etc.
+- **SPARK**: Smart Portal Access and Redirection Kit, as the name states it's a python based application for Smart Login process without the need of visiting a website. Made for SOPHOS ( CaaS ) Portal Logins. 
 
 
 
