@@ -12,8 +12,7 @@ I'm **Raj Varun**, a **CS Undergrad**. I have a passion for coding.. My expertis
 
 ### Projects:
 
-- **Online Banking System**: Developed with HTML, CSS, and PHP, featuring secure authentication and user authorization within a LAN environment.
-- **Discord Bot (Vtrixha)**: Built using JavaScript and Node.js, implementing features like moderation commands, automated responses, and server management utilities.
+- **FutureBanking-LAN**: Developed with HTML, CSS, and PHP, featuring secure authentication and user authorization within a LAN environment.
 - **TinyChat**: An application that detects obscenity and inappropriate content that is being sent in chats, etc.
 
 
