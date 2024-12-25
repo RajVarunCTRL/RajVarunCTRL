@@ -1,7 +1,13 @@
 # 💫 About Me:
 # Hi there! 👋
 
-I'm **Raj Varun**, a **CS Undergrad**. I have a passion for coding.. My expertise lies in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in Python and have experience working with various frameworks such as **Node.js** and **React.js**.
+I'm **Raj Varun**, a **CS Undergrad** with a passion for coding. I specialize in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in **Python** and have experience working with frameworks like **Node.js** and **React.js**.
+
+## My Interests
+
+I love discovering new things, experimenting with technologies, and continuously learning.
+
+I enjoy building **PHP websites** and utilizing **Bootstrap** to create responsive designs. Most of my current projects are focused on **PHP server-side coding**, **database management**, and automating tasks using Python, which helps simplify my workflow.
 
 ### Key Skills:
 
