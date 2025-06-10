@@ -1,7 +1,9 @@
+<h1 align="center">Hi 👋, I'm Raj Varun</h1>
+<h3 align="center">🚀 Software Developer | 💻 Tech Enthusiast | 🌟 Coding Enthusiast</h3>
 # 💫 About Me:
-# Hi there! 👋
 
-I'm **Raj Varun**, a **CS Undergrad** with a passion for coding. Holding a Dipoma in Computers Science & Engineering. I specialize in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in **Python** and have experience working with frameworks like **Node.js** and **React.js**.
+
+I'm a **CS Undergrad** with a passion for coding. Holding a Dipoma in Computers Science & Engineering. I specialize in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in **Python** and have experience working with frameworks like **Node.js** and **React.js**.
 
 ## My Interests
 
