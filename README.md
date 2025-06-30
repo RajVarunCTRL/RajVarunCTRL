@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Raj Varun</h1>
 <h3 align="center">🚀 Python Developer | 💻 Tech Enthusiast | 🌟 Coding Enthusiast</h3>
-# 💫 About Me:
 
+<h1 align="center">💫 About Me 💫</h1>
 
 I'm a **CS Undergrad** with a passion for coding. Holding a Dipoma in Computers Science & Engineering. I specialize in both WAMP (Windows, Apache, MySQL, PHP) and LAMP (Linux, Apache, MySQL, PHP) stacks. I'm also proficient in **Python** and have experience working with frameworks like **Node.js** and **React.js**.
 
-## My Interests
+<h2 align="center">My Interests</h1>
 
 I love discovering new things, experimenting with technologies, and continuously learning.
 
 I enjoy building **PHP websites** and utilizing **Bootstrap** to create responsive designs. Most of my current projects are focused on **PHP server-side coding**, **database management**, and automating tasks using Python, which helps simplify my workflow.
 
 Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
-## My Skills:
+<h2 align="center">🛠️ My Skills 🛠️</h1>
 
 - **Languages**: PHP, C, C++, Python, Java
 
@@ -22,7 +22,7 @@ Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
 
 <p>&nbsp;</p>
 
-<h1 align="center">Projects</h1>
+<h2 align="center">Projects</h1>
 
 - **FutureBanking-LAN**: Developed with HTML, CSS, and PHP, featuring secure authentication and user authorization within a LAN environment.
 
@@ -51,7 +51,8 @@ Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-![Commits gif](https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ## 📊 GitHub Activity & Stats
 
