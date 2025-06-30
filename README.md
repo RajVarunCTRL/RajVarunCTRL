@@ -51,7 +51,11 @@ Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 ## 📊 GitHub Activity & Stats
