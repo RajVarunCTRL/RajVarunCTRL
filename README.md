@@ -59,6 +59,7 @@ Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
   <img src="https://github-readme-stats.vercel.app/api?username=RajVarunCTRL&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&card_width=490" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVarunCTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=490" alt="Top Languages" />
+  
 </p>
 
   <!-- SNAKE -->
