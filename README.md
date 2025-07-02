@@ -51,35 +51,36 @@ Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
-</picture>
-
-
-
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=RajVarunCTRL&theme=tokyonight&hide_border=true&card_width=500" width="500" alt="GitHub Streak" />
-
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=RajVarunCTRL&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&card_width=500" width="500" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=RajVarunCTRL&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&card_width=490"  alt="GitHub Stats" />
+      </td>
+      <td width="35%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVarunCTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=100" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <!-- SNAKE -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
+  </picture>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVarunCTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500" width="500" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=RajVarunCTRL&theme=tokyonight&hide_border=true&card_width=500" width="500" alt="GitHub Streak" />
+
 
 </div>
 
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">📃 Random Dev Quote 📃</h3>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 
-[![](https://visitcount.itsvg.in/api?id=RajVarunCTRL&icon=8&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
