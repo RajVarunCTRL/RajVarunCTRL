@@ -55,16 +55,12 @@ Current project: [ZenXFeedbacks](http://zenxfeedbacks.synergize.co/)
 
 <div align="center">
 <!-- GitHub Stats -->
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RajVarunCTRL&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&card_width=490"  alt="GitHub Stats" />
-      </td>
-      <td width="35%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVarunCTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=100" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajVarunCTRL&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&card_width=490" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVarunCTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=490" alt="Top Languages" />
+</p>
+
   <!-- SNAKE -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajVarunCTRL/RajVarunCTRL/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
